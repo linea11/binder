@@ -29,12 +29,12 @@ line=6200|/d [СМИ ЛС] - [Всем]: Освобождаю новостную
 
 [bind]
 id=pride2
-name=pride2
+name=Реклама PRIDE 2
 key=0
 key2=0
 cmd=pride2
 enabled=1
-pinned=0
+pinned=1
 line=5500|/d [СМИ ЛС] - [Всем]: Занимаю новостную волну
 line=5500|/news •/•/•/•/• Классическая мелодия 90-х годов радиостанции СМИ LS •/•/•/•/•
 line=5500|/news Эй, парень! Знаешь что такое тяжёлый люкс?
@@ -52,7 +52,7 @@ line=5500|/d [СМИ ЛС] - [Всем]: Освобождаю новостную
 
 [bind]
 id=vagos1
-name=vagos1
+name=Реклама VAGOS 1
 key=0
 key2=0
 cmd=vagos1
@@ -77,7 +77,7 @@ line=5600|/d [СМИ ЛС] - [Всем]: Освобождаю новостную
 
 [bind]
 id=vagos2
-name=vagos2
+name=Реклама VAGOS 2
 key=0
 key2=0
 cmd=vagos2
