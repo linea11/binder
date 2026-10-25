@@ -1,6 +1,6 @@
 [bind]
 id=lvpd_recruit1
-name=Реклама LVPD 1
+name=>>> Реклама LVPD 1
 key=0
 key2=0
 cmd=lvpd1
@@ -23,7 +23,7 @@ line=5600|/d [СМИ ЛС] - [Всем]: Освобождаю новостную
 
 [bind]
 id=lvpd_recruit2
-name=Реклама LVPD 2
+name=>>> Реклама LVPD 2
 key=0
 key2=0
 cmd=lvpd2
@@ -41,7 +41,7 @@ line=5600|/d [СМИ ЛС] - [Всем]: Освобождаю новостную
 
 [bind]
 id=lvpd_recruit3
-name=Реклама LVPD 3
+name=>>> Реклама LVPD 3
 key=0
 key2=0
 cmd=lvpd3
